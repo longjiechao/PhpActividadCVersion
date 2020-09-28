@@ -15,6 +15,9 @@ and open the template in the editor.
             function LCfunc1(){
                 
             }
+            function LCfunc2(){
+                
+            }
         ?>
     </body>
 </html>
