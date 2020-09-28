@@ -21,11 +21,7 @@ and open the template in the editor.
             function LCfunc3(){
                 
             }
-            
-            function LJ_special(){
-                echo "Longjie Chao";
-                echo "Sophia Patrice Manalo Mendoza";
-            }
+
         ?>
     </body>
 </html>
