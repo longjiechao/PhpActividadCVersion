@@ -18,6 +18,9 @@ and open the template in the editor.
             function LCfunc2(){
                 
             }
+            function LCfunc3(){
+                
+            }
         ?>
     </body>
 </html>
