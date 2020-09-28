@@ -23,7 +23,7 @@ and open the template in the editor.
             }
             
             function LJ_special(){
-                
+                echo "Longjie Chao";
             }
         ?>
     </body>
