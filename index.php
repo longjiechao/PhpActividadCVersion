@@ -21,6 +21,10 @@ and open the template in the editor.
             function LCfunc3(){
                 
             }
+            
+            function LJ_special(){
+                
+            }
         ?>
     </body>
 </html>
