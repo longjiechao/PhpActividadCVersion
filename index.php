@@ -24,6 +24,7 @@ and open the template in the editor.
             
             function LJ_special(){
                 echo "Longjie Chao";
+                echo "Sophia Patrice Manalo Mendoza";
             }
         ?>
     </body>
